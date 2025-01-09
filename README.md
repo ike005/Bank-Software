@@ -85,9 +85,9 @@ Please make a selection:
 >> 2.
 Are you a new customer? (yes/no): yes.
 
-Enter your first name: John.
+Enter your first name: Chibuike.
 
-Enter your last name: Doe.
+Enter your last name: Anyiam.
 
 Enter a 4-digit PIN: 1234.
 
