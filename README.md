@@ -65,25 +65,27 @@ This project implements a Bank Account application that allows customers to crea
 
 Files Structure
 Main.java: The entry point of the application.
+
 Menu.java: Contains methods to handle the menu and user inputs.
+
 Bank.java: Manages the list of customers.
+
 Customer.java: Handles customer-related functionality.
+
 Account.java: Manages individual bank account details.
 
 Example Output
-text
-Copy code
 ************ MENU ************
 Please make a selection: 
-1) Access Account
-2) Open a New Account
-3) Close All Accounts
-4) Exit
->> 2
-Are you a new customer? (yes/no): yes
-Enter your first name: John
-Enter your last name: Doe
-Enter a 4-digit PIN: 1234
-Enter the initial deposit amount: 1000
-New Account Opened: Account Number: 1001, Balance: $1000.0
+1) Access Account.
+2) Open a New Account.
+3) Close All Accounts.
+4) Exit.
+>> 2.
+Are you a new customer? (yes/no): yes.
+Enter your first name: John.
+Enter your last name: Doe.
+Enter a 4-digit PIN: 1234.
+Enter the initial deposit amount: 1000.
+New Account Opened: Account Number: 1001, Balance: $1000.0.
 
